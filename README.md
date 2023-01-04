@@ -6,9 +6,13 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
-- 👨‍💻 I’m currently learning **C++, Data Structures and Algorithms**
+- 🧑🏻‍💻 I’m currently learning **C++, Data Structures and Algorithms**
+
+- 💻 I’m currently working on [PhoneSploit Pro](https://github.com/AzeemIdrisi/PhoneSploit-Pro)
 
 - 📫 Reach me at : **azeemidrisi@protonmail.com**
+
+- 📱 Connect with me : **https://linktr.ee/AzeemIdrisi**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
