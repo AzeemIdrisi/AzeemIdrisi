@@ -1,14 +1,16 @@
 <!-- [![MasterHead] -->
-<h1 align="center">Hey, I'm Mohd Azeem</h1>
+<h1 align="center">Hey, I'm Azeem</h1>
 <h3 align="center">Computer Science & Engineering Undergrad</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azeemidrisi&label=Profile%20views&color=0e75b6&style=flat" alt="azeemidrisi" /> </p>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
-- 🧑🏻‍💻 I’m currently learning **C++, Data Structures and Algorithms**
+- 🧑🏻‍💻 I’m currently learning **C++, Python, Data Structures and Algorithms**
 
 - 💻 I’m currently working on [PhoneSploit Pro](https://github.com/AzeemIdrisi/PhoneSploit-Pro)
+
+- 🤝🏻 I’m open to working on projects involving **CyberSecurity**, **Linux** etc. 
 
 - 📫 Reach me at : **azeemidrisi@protonmail.com**
 
