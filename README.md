@@ -8,7 +8,7 @@
 
 - 🧑🏻‍💻 I’m currently learning **C++, Python, Data Structures and Algorithms**
 
-- 💻 I’m currently working on [PhoneSploit Pro](https://github.com/AzeemIdrisi/PhoneSploit-Pro)
+- 💻 I’m currently working on [**PhoneSploit Pro**](https://github.com/AzeemIdrisi/PhoneSploit-Pro)
 
 - 🤝🏻 I’m open to working on projects involving **CyberSecurity**, **Linux** etc. 
 
