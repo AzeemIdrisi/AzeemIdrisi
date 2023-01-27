@@ -32,6 +32,6 @@ href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="nore
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AzeemIdrisi&repo=PhoneSploit-Pro)](https://github.com/AzeemIdrisi/PhoneSploit-Pro)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azeemidrisi&show_icons=true&locale=en" alt="azeemidrisi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azeemidrisi&show_icons=true&include_all_commits=true&locale=en" alt="azeemidrisi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=azeemidrisi&" alt="azeemidrisi" /></p>
