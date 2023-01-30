@@ -36,4 +36,13 @@ jobs:
           echo test, and deploy your project.
           
       - name: generate-snake-game-from-github-contribution-grid
+        # You may pin to the exact commit or the version.
+        # uses: Platane/snk@1526ced25e3c39ff3d41af01a6f9981b046b6744
         uses: Platane/snk@v1.1.4
+        with:
+          # github user name
+          github_user_name:  AzeemIdrisi
+          # path of the generated gif file. If left empty, the gif file will not be generated.
+          gif_out_path: outputs/
+          # path of the generated svg file. If left empty, the svg file will not be generated.
+          svg_out_path: outputs/
