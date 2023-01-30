@@ -37,9 +37,8 @@ href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="nore
 ![Snake](https://github.com/AzeemIdrisi/AzeemIdrisi/blob/output/github-contribution-grid-snake.svg)
 
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=azeemidrisi&show_icons=true&include_all_commits=true&locale=en" alt="azeemidrisi" /></p>
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=azeemidrisi&show_icons=true&locale=en&layout=compact" alt="azeemidrisi" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=azeemidrisi&" alt="azeemidrisi" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=azeemidrisi&show_icons=true&include_all_commits=true&locale=en" alt="azeemidrisi" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=azeemidrisi&" alt="azeemidrisi" /></p>
