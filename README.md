@@ -42,7 +42,8 @@ href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="nor
 href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" width="36" height="36" alt="Premiere Pro" width="40" height="40"/> </a> </p>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AzeemIdrisi&repo=PhoneSploit-Pro" alt="azeemidrisi" /></p>
+ <a 
+href="https://github.com/AzeemIdrisi/PhoneSploit-Pro"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AzeemIdrisi&repo=PhoneSploit-Pro" /> </a>
 
 ![Snake](https://github.com/AzeemIdrisi/AzeemIdrisi/blob/output/github-contribution-grid-snake.svg)
 
