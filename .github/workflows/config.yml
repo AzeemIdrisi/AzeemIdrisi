@@ -9,6 +9,7 @@ on:
     - cron: "0 */6 * * *"
 
 # This command allows us to run the Action automatically from the Actions tab.
+  # allows to manually run the job at any time
   workflow_dispatch:
   
   # run on every push on the master branch
@@ -28,7 +29,7 @@ jobs:
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v2
         with:
-          github_user_name: AzeemIdrisi
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
