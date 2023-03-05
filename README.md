@@ -34,7 +34,7 @@ href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src
 <a
 href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="38"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="35"/> </a> 
   <a href="https://archlinux.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/130px-Archlinux-icon-crystal-64.svg.png?20221007043523" alt="Arch Linux" width="40" height="40"/> </a> 
-   <a href="https://endeavouros.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/endeavouros-team/endeavouros-theming/blob/master/EndeavourOS-icon.png" alt="Linux Mint" width="40" height="40"/> </a>
+<!--    <a href="https://endeavouros.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/endeavouros-team/endeavouros-theming/blob/master/EndeavourOS-icon.png" alt="Linux Mint" width="40" height="40"/> </a> -->
   <a
     <a href="https://www.kali.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="Kali Linux" width="45" height="45"/> </a>
   <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png" alt="Ubuntu" width="40" height="40"/> </a>
