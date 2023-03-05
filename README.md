@@ -47,7 +47,11 @@ href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="nore
  <a 
 href="https://github.com/AzeemIdrisi/PhoneSploit-Pro"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AzeemIdrisi&repo=PhoneSploit-Pro" /> </a>
 
-![Snake](https://github.com/AzeemIdrisi/AzeemIdrisi/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AzeemIdrisi/AzeemIdrisi/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AzeemIdrisi/AzeemIdrisi/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AzeemIdrisi/AzeemIdrisi/output/github-contribution-grid-snake.svg">
+</picture>
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=azeemidrisi&show_icons=true&locale=en&layout=compact" alt="azeemidrisi" /></p>
