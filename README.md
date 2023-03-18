@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azeemidrisi&label=Profile%20views&color=0e75b6&style=flat" alt="azeemidrisi" /> </p>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+<img align="right" alt="Coding" width="400" src="docs/avento.gif" />
 
 - 🧑🏻‍💻 I’m currently learning **C++, Python, Data Structures and Algorithms**
 
