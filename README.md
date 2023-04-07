@@ -29,7 +29,7 @@
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 <a
 href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="42"/> </a>
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://developer.android.com/static/images/kotlin/kotlin-logo-color.svg" alt="kotlin" width="34" height="35"/> </a> 
+  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/4479d2a2c854198cb00160f8593519c14dc3b905/topics/kotlin/kotlin.png" alt="kotlin" width="33" height="33"/> </a> 
   <a
 href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="38"/> </a>
 <a
