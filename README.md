@@ -8,7 +8,7 @@
 
 - 🧑🏻‍💻 I’m currently learning **C++, Python, Data Structures and Algorithms**
 
-- 💻 I’m currently working on [**PhoneSploit Pro**](https://github.com/AzeemIdrisi/PhoneSploit-Pro)
+- 💻 I’m currently working on [**InstaLoader-App**](https://github.com/AzeemIdrisi/InstaLoader-App) & [**PhoneSploit Pro**](https://github.com/AzeemIdrisi/PhoneSploit-Pro)
 
 - 🤝🏻 I’m open to working on projects involving **CyberSecurity**, **Linux**, **C**, **C++**, **Python** etc. 
 
@@ -46,7 +46,12 @@ href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="nore
 
 
  <a 
-href="https://github.com/AzeemIdrisi/PhoneSploit-Pro"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AzeemIdrisi&repo=PhoneSploit-Pro" /> </a>
+href="https://github.com/AzeemIdrisi/PhoneSploit-Pro"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AzeemIdrisi&repo=PhoneSploit-Pro" /> 
+</a>
+<a 
+href="https://github.com/AzeemIdrisi/InstaLoader-App"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AzeemIdrisi&repo=InstaLoader-App" />
+</a>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AzeemIdrisi/AzeemIdrisi/output/github-contribution-grid-snake-dark.svg">
