@@ -8,7 +8,7 @@
 
 - 🧑🏻‍💻 I’m currently learning **C++, Python, Data Structures and Algorithms**
 
-- 💻 I’m currently working on [**InstaLoader-App**](https://github.com/AzeemIdrisi/InstaLoader-App) & [**PhoneSploit Pro**](https://github.com/AzeemIdrisi/PhoneSploit-Pro)
+- 💻 I’m currently working on [**InstaLoaderApp**](https://github.com/AzeemIdrisi/InstaLoaderApp) & [**PhoneSploit Pro**](https://github.com/AzeemIdrisi/PhoneSploit-Pro)
 
 - 🤝🏻 I’m open to working on projects involving **CyberSecurity**, **Linux**, **C**, **C++**, **Python** etc. 
 
@@ -49,7 +49,7 @@ href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="nore
 href="https://github.com/AzeemIdrisi/PhoneSploit-Pro"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AzeemIdrisi&repo=PhoneSploit-Pro" /> 
 </a>
 <a 
-href="https://github.com/AzeemIdrisi/InstaLoader-App"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AzeemIdrisi&repo=InstaLoader-App" />
+href="https://github.com/AzeemIdrisi/InstaLoaderApp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AzeemIdrisi&repo=InstaLoaderApp" />
 </a>
 
 
