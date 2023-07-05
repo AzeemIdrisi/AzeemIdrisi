@@ -1,6 +1,6 @@
 <!-- [![MasterHead] -->
-<h1 align="center">Hey, I'm Azeem</h1>
-<h3 align="center">Computer Science & Engineering Undergrad</h3>
+<h1 align="center">👋🏻 Hey there, I'm Azeem</h1>
+<h3 align="center"> Computer Science & Engineering Undergrad</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azeemidrisi&label=Profile%20views&color=0e75b6&style=flat" alt="azeemidrisi" /> </p>
 
@@ -8,7 +8,7 @@
 
 - 🧑🏻‍💻 I’m currently learning **C++, Python, Data Structures and Algorithms**
 
-- 💻 I’m currently working on [**InstaLoaderApp**](https://github.com/AzeemIdrisi/InstaLoaderApp) & [**PhoneSploit Pro**](https://github.com/AzeemIdrisi/PhoneSploit-Pro)
+- 💻 I’m currently working on [**PhoneSploit Pro**](https://github.com/AzeemIdrisi/PhoneSploit-Pro) and [**InstaLoaderApp**](https://github.com/AzeemIdrisi/InstaLoaderApp)
 
 - 🤝🏻 I’m open to working on projects involving **CyberSecurity**, **Linux**, **C**, **C++**, **Python** etc. 
 
@@ -16,15 +16,17 @@
 
 - 📱 Connect with me : **https://linktr.ee/AzeemIdrisi**
 
-<h3 align="left">Connect with me:</h3>
+- ♟️ Play chess with me : **https://chess.com/member/lord_azeem**
+
+<h3 align="left">🤙🏻 Connect with me:</h3>
 <p align="left"><a href="https://www.twitter.com/Azeem_5202" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="40" height="32" /></a> <a href="https://www.dev.to/AzeemIdrisi" target="_blank" rel="noreferrer"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" width="40" height="32" /></a> <a href="https://www.facebook.com/Azeem.5202" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="40" height="32" /></a> <a href="http://www.instagram.com/azeem_5202" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="40" height="32" /></a> <a href="https://www.linkedin.com/in/azeem5202" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="32" /></a> <a href="https://www.stackoverflow.com/users/20801729/mohd-azeem" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="40" height="32" /></a> <a href="https://www.youtube.com/c/MrTricksMaster" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="40" height="32" /></a>
 </p>
 
-<h3 align="left">Support me:</h3>
+<h3 align="left">🚀 Support me:</h3>
 <a href="https://www.buymeacoffee.com/AzeemIdrisi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🛠️ Tech Stack:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 <a
@@ -45,13 +47,16 @@ href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="nor
 href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" width="36" height="36" alt="Premiere Pro" width="40" height="40"/> </a> </p>
 
 
+<h3 align="left">⚙️ Projects:</h3>
  <a 
 href="https://github.com/AzeemIdrisi/PhoneSploit-Pro"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AzeemIdrisi&repo=PhoneSploit-Pro" /> 
 </a>
 <a 
 href="https://github.com/AzeemIdrisi/InstaLoaderApp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AzeemIdrisi&repo=InstaLoaderApp" />
 </a>
-
+<a 
+href="https://github.com/AzeemIdrisi/TweetifyMusic"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AzeemIdrisi&repo=TweetifyMusic" />
+</a>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AzeemIdrisi/AzeemIdrisi/output/github-contribution-grid-snake-dark.svg">
