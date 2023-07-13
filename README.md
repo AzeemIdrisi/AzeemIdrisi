@@ -51,42 +51,42 @@
         width="200"></a>
 
 <h3 align="left">🛠️ Tech Stack:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">  <kbd> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c"
-            width="40" height="40" /> &nbsp</a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img
+            width="36" /> </a>
+    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">  <kbd> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-            alt="cplusplus" width="40" height="40" /> &nbsp</a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
+            alt="cplusplus" width="36" /> </a>
+    <a href="https://www.python.org" target="_blank" rel="noreferrer">  <kbd> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-            alt="python" width="40" /> &nbsp</a>
-    <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img
+            alt="python" width="36" /> </a>
+    <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">  <kbd> <img
             src="https://raw.githubusercontent.com/github/explore/4479d2a2c854198cb00160f8593519c14dc3b905/topics/kotlin/kotlin.png"
-            alt="kotlin" width="33" height="33" /> &nbsp</a>&nbsp
-    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img
+            alt="kotlin" width="36" /> </a>
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">  <kbd> <img
             src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"
-            title="Visual Studio Code" alt="Visual Studio Code" width="36" /> &nbsp</a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="38" />
-        &nbsp</a>
-    <a href="https://archlinux.org/" target="_blank" rel="noreferrer"> <img
+            title="Visual Studio Code" alt="Visual Studio Code" width="36"/> </a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">  <kbd> <img
+            src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="36"/>
+        </a>
+    <a href="https://archlinux.org/" target="_blank" rel="noreferrer"> <kbd>  <img
             src="https://upload.wikimedia.org/wikipedia/commons/1/13/Arch_Linux_%22Crystal%22_icon.svg"
-            alt="Arch Linux" width="38" /> &nbsp</a>
-    <!--    <a href="https://endeavouros.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/endeavouros-team/endeavouros-theming/blob/master/EndeavourOS-icon.png" alt="Linux Mint" width="40" height="40"/> </a> -->
-    <a href="https://fedoraproject.org/" target="_blank" rel="noreferrer"> <img
+            alt="Arch Linux" width="36" /> </a>
+    <!--    <a href="https://endeavouros.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/endeavouros-team/endeavouros-theming/blob/master/EndeavourOS-icon.png" alt="Linux Mint" width="36" height="40"/> </a> -->
+    <a href="https://fedoraproject.org/" target="_blank" rel="noreferrer">  <kbd> <img
             src="https://upload.wikimedia.org/wikipedia/commons/4/41/Fedora_icon_%282021%29.svg"
-            alt="Fedora" width="38" /> &nbsp</a>
-    <a href="https://www.kali.org/" target="_blank" rel="noreferrer"> <img
+            alt="Fedora" width="36"/> </a>
+    <a href="https://www.kali.org/" target="_blank" rel="noreferrer">  <kbd> <img
             src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="Kali Linux"
-            width="45" height="45" /> &nbsp</a>
-    <!--   <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png" alt="Ubuntu" width="40" height="40"/> </a>
-<a href="https://linuxmint.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Linux_Mint_logo_without_wordmark.svg" alt="Linux Mint" width="40" height="40"/> </a> -->
-    <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img
+            width="36" /> </a>
+    <!--   <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png" alt="Ubuntu" width="36" height="40"/> </a>
+<a href="https://linuxmint.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Linux_Mint_logo_without_wordmark.svg" alt="Linux Mint" width="36" height="40"/> </a> -->
+    <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"> <kbd> <img
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/240px-Adobe_Photoshop_CC_icon.svg.png"
-            width="36" height="36" alt="Photoshop" width="40" height="38" /> &nbsp</a> <a
-        href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img
+            alt="Photoshop" width="36" /> </a> <a
+        href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"> <kbd> <img
             src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg"
-            width="36" height="36" alt="Premiere Pro" width="40" height="40" /> &nbsp</a>
+            alt="Premiere Pro" width="36" /> </a>
 </p>
 
 <h3 align="left">⚙️ Projects:</h3>
