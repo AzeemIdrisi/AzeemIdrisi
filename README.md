@@ -46,12 +46,12 @@
 </p>
 
 <h3 align="left">🚀 Support me:</h3>
-<a href="https://www.buymeacoffee.com/AzeemIdrisi" target="_blank"><img
-        src="https://github.com/AzeemIdrisi/AzeemIdrisi/assets/112647789/2c94503f-1816-4a2b-af7a-629bf225e1da" alt="Buy Me A Coffee"
+<a href="https://www.buymeacoffee.com/AzeemIdrisi" target="_blank"> <kbd> <img
+        src="docs/default-yellow.png" alt="Buy Me A Coffee"
         width="200"></a>
-<a href="paypal.me/AzeemIdrisi" target="_blank"><img
-        src="https://github.com/AzeemIdrisi/AzeemIdrisi/assets/112647789/04afbe7b-5baa-4b52-bc79-65ee8782f14c" alt="Buy Me A Coffee"
-        width="144"></a>
+<a href="https://paypal.me/AzeemIdrisi" target="_blank"> <kbd> <img
+        src="docs/paypal-button-blue.png" alt="PayPal"
+        width="148"></a>
 
 <h3 align="left">🛠️ Tech Stack:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">  <kbd> <img
