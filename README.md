@@ -63,9 +63,15 @@
     <a href="https://www.python.org" target="_blank" rel="noreferrer">  <kbd> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
             alt="python" width="36" /> </a>
-    <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">  <kbd> <img
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">  <kbd> <img
+            src="https://www.w3.org/html/logo/downloads/HTML5_Logo.svg"
+            alt="html" width="36" /> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">  <kbd> <img
+            src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"
+            alt="css" width="26" /> </a>
+<!--     <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">  <kbd> <img
             src="https://raw.githubusercontent.com/github/explore/4479d2a2c854198cb00160f8593519c14dc3b905/topics/kotlin/kotlin.png"
-            alt="kotlin" width="36" /> </a>
+            alt="kotlin" width="36" /> </a> -->
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">  <kbd> <img
             src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"
             title="Visual Studio Code" alt="Visual Studio Code" width="36"/> </a>
