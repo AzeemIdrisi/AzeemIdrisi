@@ -108,6 +108,9 @@
 <a href="https://github.com/AzeemIdrisi/TweetifyMusic"><img
         src="https://github-readme-stats.vercel.app/api/pin/?username=AzeemIdrisi&repo=TweetifyMusic" />
 </a>
+<a href="https://github.com/AlphaCorpIN/Hacking-Repos"><img
+        src="https://github-readme-stats.vercel.app/api/pin/?username=AlphaCorpIN&repo=Hacking-Repos" />
+</a>
 
 <picture>
     <source media="(prefers-color-scheme: dark)"
