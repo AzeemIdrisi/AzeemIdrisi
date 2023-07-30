@@ -19,7 +19,7 @@
 
 - 📱 Connect with me : **<https://linktr.ee/AzeemIdrisi>**
 
-- ♟️ Play chess with me : **<https://chess.com/member/lord_azeem>**
+- ♟️ Play chess with me : **[Lichess](https://lichess.org/@/Lord_Azeem) | [Chess.com](https://chess.com/member/lord_azeem)**
 
 <h3 align="left">🤙🏻 Connect with me:</h3>
 <p align="left"><a href="https://www.twitter.com/Azeem_5202" target="_blank" rel="noreferrer"> <kbd> <img
