@@ -17,7 +17,7 @@
 
 - 📫 Reach me at : **<azeemidrisi@protonmail.com>**
 
-- 📱 Connect with me : **<https://linktr.ee/AzeemIdrisi>**
+- 📱 Connect with me : **[Linktree/AzeemIdrisi](https://linktr.ee/AzeemIdrisi)**
 
 - ♟️ Play chess with me : **[Lichess](https://lichess.org/@/Lord_Azeem) | [Chess.com](https://chess.com/member/lord_azeem)**
 
