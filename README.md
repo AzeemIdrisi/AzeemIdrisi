@@ -63,6 +63,9 @@
     <a href="https://www.python.org" target="_blank" rel="noreferrer">  <kbd> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
             alt="python" width="36" /> </a>
+    <a href="https://www.kotlinlang.org" target="_blank" rel="noreferrer">  <kbd> <img
+            src="https://icon.icepanel.io/Technology/svg/Kotlin.svg"
+            alt="Kotlin" width="36" /> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">  <kbd> <img
             src="https://www.w3.org/html/logo/downloads/HTML5_Logo.svg"
             alt="html" width="36" /> </a>
