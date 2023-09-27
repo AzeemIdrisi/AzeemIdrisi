@@ -23,8 +23,8 @@
 
 <h3 align="left">🤙🏻 Connect with me:</h3>
 <p align="left"><a href="https://www.twitter.com/Azeem_5202" target="_blank" rel="noreferrer"> <kbd> <img
-            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg"
-            width="40" height="32" /></a> <a href="https://www.dev.to/AzeemIdrisi" target="_blank"
+            src="https://upload.wikimedia.org/wikipedia/commons/9/95/Twitter_new_X_logo.png"
+            width="38" /></a> <a href="https://www.dev.to/AzeemIdrisi" target="_blank"
         rel="noreferrer"> <kbd> <img
             src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png"
             width="40" height="32" /></a> <a href="https://www.facebook.com/Azeem.5202" target="_blank"
