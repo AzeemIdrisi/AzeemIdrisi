@@ -66,6 +66,9 @@
     <a href="https://www.kotlinlang.org" target="_blank" rel="noreferrer">  <kbd> <img
             src="https://icon.icepanel.io/Technology/svg/Kotlin.svg"
             alt="Kotlin" width="36" /> </a>
+    <a href="https://developer.android.com/studio/" target="_blank" rel="noreferrer">  <kbd> <img
+            src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Android_Studio_icon_%282023%29.svg"
+            alt="Android Studio" width="36" /> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">  <kbd> <img
             src="https://www.w3.org/html/logo/downloads/HTML5_Logo.svg"
             alt="html" width="36" /> </a>
