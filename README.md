@@ -45,14 +45,6 @@
             width="40" height="32" /></a>
 </p>
 
-<h3 align="left">🚀 Support me:</h3>
-<a href="https://www.buymeacoffee.com/AzeemIdrisi" target="_blank"> <kbd> <img
-        src="docs/default-yellow.png" alt="Buy Me A Coffee"
-        width="200"></a>
-<a href="https://paypal.me/AzeemIdrisi" target="_blank"> <kbd> <img
-        src="docs/paypal-button-blue.png" alt="PayPal"
-        width="148"></a>
-
 <h3 align="left">🛠️ Tech Stack:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">  <kbd> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c"
@@ -140,3 +132,12 @@
         alt="azeemidrisi" /></p>
 
 [![An image of @azeemidrisi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/azeemidrisi)](https://holopin.io/@azeemidrisi)
+
+<h3 align="left">🚀 Like my work? Support me here:</h3>
+<a href="https://www.buymeacoffee.com/AzeemIdrisi" target="_blank"> <kbd> <img
+        src="docs/default-yellow.png" alt="Buy Me A Coffee"
+        width="200"></a>
+<a href="https://paypal.me/AzeemIdrisi" target="_blank"> <kbd> <img
+        src="docs/paypal-button-blue.png" alt="PayPal"
+        width="148"></a>
+
