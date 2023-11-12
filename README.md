@@ -104,6 +104,9 @@
 <a href="https://github.com/AzeemIdrisi/InstaLoaderApp"><img
         src="https://github-readme-stats.vercel.app/api/pin/?username=AzeemIdrisi&repo=InstaLoaderApp" />
 </a>
+<a href="https://github.com/AzeemIdrisi/QR-Attendance-System"><img
+        src="https://github-readme-stats.vercel.app/api/pin/?username=AzeemIdrisi&repo=QR-Attendance-System" />
+</a>
 <a href="https://github.com/AzeemIdrisi/TweetifyMusic"><img
         src="https://github-readme-stats.vercel.app/api/pin/?username=AzeemIdrisi&repo=TweetifyMusic" />
 </a>
