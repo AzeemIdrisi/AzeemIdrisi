@@ -110,12 +110,23 @@
 <a href="https://github.com/AlphaCorpIN/Hacking-Repos"><img
         src="https://github-readme-stats.vercel.app/api/pin/?username=AlphaCorpIN&repo=Hacking-Repos" />
 </a>
+
+</br>
+<details>
+        <summary><h3> More Useful Repos</h3></summary>
 <a href="https://github.com/AzeemIdrisi/StoreX"><img
         src="https://github-readme-stats.vercel.app/api/pin/?username=AzeemIdrisi&repo=StoreX" />
 </a>
 <a href="https://github.com/AzeemIdrisi/TweetifyMusic"><img
         src="https://github-readme-stats.vercel.app/api/pin/?username=AzeemIdrisi&repo=TweetifyMusic" />
 </a>
+<a href="https://github.com/AzeemIdrisi/ChatterBox"><img
+        src="https://github-readme-stats.vercel.app/api/pin/?username=AzeemIdrisi&repo=ChatterBox" />
+</a>
+<a href="https://github.com/AzeemIdrisi/XeroSploit-Pro"><img
+        src="https://github-readme-stats.vercel.app/api/pin/?username=AzeemIdrisi&repo=XeroSploit-Pro" />
+</a>
+</details>
 
 <picture>
     <source media="(prefers-color-scheme: dark)"
