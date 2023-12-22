@@ -126,6 +126,9 @@
 <a href="https://github.com/AzeemIdrisi/XeroSploit-Pro"><img
         src="https://github-readme-stats.vercel.app/api/pin/?username=AzeemIdrisi&repo=XeroSploit-Pro" />
 </a>
+<a href="https://github.com/AzeemIdrisi/SwiftChat"><img
+        src="https://github-readme-stats.vercel.app/api/pin/?username=AzeemIdrisi&repo=SwiftChat" />
+</a>
 </details>
 
 <picture>
