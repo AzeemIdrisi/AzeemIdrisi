@@ -112,6 +112,12 @@
 </a>
 
 </br>
+<a href="https://github.com/AzeemIdrisi/XeroSploit-Pro"><img
+        src="https://github-readme-stats.vercel.app/api/pin/?username=AzeemIdrisi&repo=XeroSploit-Pro" />
+</a>
+<a href="https://github.com/AzeemIdrisi/SwiftChat"><img
+        src="https://github-readme-stats.vercel.app/api/pin/?username=AzeemIdrisi&repo=SwiftChat" />
+</a>
 <details>
         <summary><h3> More Useful Repos</h3></summary>
 <a href="https://github.com/AzeemIdrisi/StoreX"><img
@@ -122,12 +128,6 @@
 </a>
 <a href="https://github.com/AzeemIdrisi/ChatterBox"><img
         src="https://github-readme-stats.vercel.app/api/pin/?username=AzeemIdrisi&repo=ChatterBox" />
-</a>
-<a href="https://github.com/AzeemIdrisi/XeroSploit-Pro"><img
-        src="https://github-readme-stats.vercel.app/api/pin/?username=AzeemIdrisi&repo=XeroSploit-Pro" />
-</a>
-<a href="https://github.com/AzeemIdrisi/SwiftChat"><img
-        src="https://github-readme-stats.vercel.app/api/pin/?username=AzeemIdrisi&repo=SwiftChat" />
 </a>
 </details>
 
