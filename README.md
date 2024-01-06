@@ -68,6 +68,7 @@
             src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"
             alt="css" width="26" /> </a>
     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <kbd> <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/0927fc72a1d655c12ec60178df88bef6da3b883d/icons/file_type_django.svg" width="36" alt="Django" /></a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <kbd> <img src="https://skillicons.dev/icons?i=mysql" width="36" alt="MySQL" /></a>
 <!--     <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">  <kbd> <img
             src="https://raw.githubusercontent.com/github/explore/4479d2a2c854198cb00160f8593519c14dc3b905/topics/kotlin/kotlin.png"
             alt="kotlin" width="36" /> </a> -->
