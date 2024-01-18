@@ -22,9 +22,20 @@
 - ♟️ Play chess with me : **[Lichess](https://lichess.org/@/Lord_Azeem) | [Chess.com](https://chess.com/member/lord_azeem)**
 
 <h3 align="left">🤙🏻 Connect with me:</h3>
-<p align="left"><a href="https://www.twitter.com/Azeem_5202" target="_blank" rel="noreferrer"> <kbd> <img
+<p align="left">
+        <a href="https://www.hackerrank.com/profile/azeem_5202" target="_blank" rel="noreferrer"> <kbd> <img
+            src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png"
+            width="34" /></a>
+        <a href="https://leetcode.com/AzeemIdrisi/" target="_blank" rel="noreferrer"> <kbd> <img
+            src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"
+            width="34" /></a>
+        <a href="https://www.codechef.com/users/azeem_idrisi" target="_blank" rel="noreferrer"> <kbd> <img
+            src="https://static.uacdn.net/thumbnail/external-app-icons/ce4fd2180646452aa0b03c3ffa3ef8e2.png"
+            width="34" /></a>
+        <a href="https://www.twitter.com/Azeem_5202" target="_blank" rel="noreferrer"> <kbd> <img
             src="https://upload.wikimedia.org/wikipedia/commons/9/95/Twitter_new_X_logo.png"
-            width="38" /></a> <a href="https://www.dev.to/AzeemIdrisi" target="_blank"
+            width="38" /></a>
+        <a href="https://www.dev.to/AzeemIdrisi" target="_blank"
         rel="noreferrer"> <kbd> <img
             src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png"
             width="40" height="32" /></a> <a href="https://www.facebook.com/Azeem.5202" target="_blank"
