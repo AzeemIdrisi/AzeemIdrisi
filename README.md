@@ -131,7 +131,7 @@
         src="https://github-readme-stats.vercel.app/api/pin/?username=AzeemIdrisi&repo=SwiftChat" />
 </a>
 <details>
-        <summary><h3> More Useful Repos</h3></summary>
+        <summary><h3> More Useful Repos [Click to expand]</h3></summary>
 <a href="https://github.com/AzeemIdrisi/StoreX"><img
         src="https://github-readme-stats.vercel.app/api/pin/?username=AzeemIdrisi&repo=StoreX" />
 </a>
