@@ -32,27 +32,30 @@
         <a href="https://www.codechef.com/users/azeem_idrisi" target="_blank" rel="noreferrer"> <kbd> <img
             src="https://static.uacdn.net/thumbnail/external-app-icons/ce4fd2180646452aa0b03c3ffa3ef8e2.png"
             width="34" /></a>
-        <a href="https://www.twitter.com/Azeem_5202" target="_blank" rel="noreferrer"> <kbd> <img
-            src="https://upload.wikimedia.org/wikipedia/commons/9/95/Twitter_new_X_logo.png"
-            width="38" /></a>
+        <a href="https://www.stackoverflow.com/users/20801729/mohd-azeem"
+        target="_blank" rel="noreferrer"> <kbd> <img
+            src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg"
+            width="40" height="32" /></a>
         <a href="https://www.dev.to/AzeemIdrisi" target="_blank"
         rel="noreferrer"> <kbd> <img
             src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png"
-            width="40" height="32" /></a> <a href="https://www.facebook.com/Azeem.5202" target="_blank"
+            width="40" height="32" /></a>
+                 <a href="https://www.twitter.com/Azeem_5202" target="_blank" rel="noreferrer"> <kbd> <img
+            src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/1c/1a/0d/1c1a0d1f-3fa5-4644-49ac-034e84d267a0/ProductionAppIcon-1x_U007emarketing-0-7-0-0-0-85-220.png/460x0w.webp"
+            width="34" /></a>
+        <a href="https://www.facebook.com/Azeem.5202" target="_blank"
         rel="noreferrer"> <kbd> <img
-            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg"
+            src="https://upload.wikimedia.org/wikipedia/en/0/04/Facebook_f_logo_%282021%29.svg"
             width="40" height="32" /></a> <a href="http://www.instagram.com/azeem_5202" target="_blank"
         rel="noreferrer"> <kbd> <img
-            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg"
+            src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg"
             width="40" height="32" /></a> <a href="https://www.linkedin.com/in/azeem5202" target="_blank"
         rel="noreferrer"> <kbd> <img
-            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg"
-            width="40" height="32" /></a> <a href="https://www.stackoverflow.com/users/20801729/mohd-azeem"
-        target="_blank" rel="noreferrer"> <kbd> <img
-            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg"
-            width="40" height="32" /></a> <a href="https://www.youtube.com/c/MrTricksMaster" target="_blank"
+            src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"
+            width="40" height="32" /></a>
+                <a href="https://www.youtube.com/c/MrTricksMaster" target="_blank"
         rel="noreferrer"> <kbd> <img
-            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg"
+            src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg"
             width="40" height="32" /></a>
 </p>
 
