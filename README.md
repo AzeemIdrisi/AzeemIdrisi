@@ -8,7 +8,7 @@
 
 <img align="right" alt="Coding" width="400" src="docs/avento.gif" />
 
-- 🧑🏻‍💻 I’m currently learning **Web Development** and  **Django**
+- 🧑🏻‍💻 I’m currently learning **MERN** and  **Django**
 
 - 💻 I’m currently working on [**PhoneSploit Pro**](https://github.com/AzeemIdrisi/PhoneSploit-Pro) and
 [**InstaLoaderApp**](https://github.com/AzeemIdrisi/InstaLoaderApp)
