@@ -107,9 +107,12 @@
 <a href="https://developer.android.com/studio/" target="_blank" rel="noreferrer">  <kbd> <img
             src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Android_Studio_icon_%282023%29.svg"
             alt="Android Studio" width="36" /> </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">  <kbd> <img
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">  <kbd> <img
             src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="36"/>
-        </a>
+</a>
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer">  <kbd> <img
+            src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Postman.svg" alt="Postman" width="36"/>
+</a>
     <a href="https://archlinux.org/" target="_blank" rel="noreferrer"> <kbd>  <img
             src="https://upload.wikimedia.org/wikipedia/commons/1/13/Arch_Linux_%22Crystal%22_icon.svg"
             alt="Arch Linux" width="36" /> </a>
