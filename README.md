@@ -151,7 +151,13 @@
         src="https://github-readme-stats.vercel.app/api/pin/?username=AzeemIdrisi&repo=SwiftChat" />
 </a>
 <details>
-        <summary><h3> More Useful Repos [Click to expand]</h3></summary>
+<summary><h3> More Useful Repos [Click to expand]</h3></summary>
+<a href="https://github.com/AzeemIdrisi/LeetCode-Streak-Tracker"><img
+        src="https://github-readme-stats.vercel.app/api/pin/?username=AzeemIdrisi&repo=LeetCode-Streak-Tracker" />
+</a>
+<a href="https://github.com/AzeemIdrisi/Noted"><img
+        src="https://github-readme-stats.vercel.app/api/pin/?username=AzeemIdrisi&repo=Noted" />
+</a>
 <a href="https://github.com/AzeemIdrisi/SwiftChat-Android"><img
         src="https://github-readme-stats.vercel.app/api/pin/?username=AzeemIdrisi&repo=SwiftChat-Android" />
 </a>
