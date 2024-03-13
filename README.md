@@ -85,6 +85,9 @@
     <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">  <kbd> <img
             src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"
             alt="Bootstrap" width="42" /> </a>
+    <a href="https://react.dev/" target="_blank" rel="noreferrer">  <kbd> <img
+            src="https://upload.wikimedia.org/wikipedia/commons/3/30/React_Logo_SVG.svg"
+            alt="React.js" width="34" /> </a>
     <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">  <kbd> <img
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/BackendDevelopment/nodejs.svg"
             alt="Node.js" width="34" /> </a>
