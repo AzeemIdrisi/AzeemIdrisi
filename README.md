@@ -156,10 +156,16 @@
 <a href="https://github.com/AzeemIdrisi/SwiftChat"><img
         src="https://github-readme-stats.vercel.app/api/pin/?username=AzeemIdrisi&repo=SwiftChat" />
 </a>
+
 <details>
+        
 <summary><h3> More Useful Repos [Click to expand]</h3></summary>
+
 <a href="https://github.com/AzeemIdrisi/LeetCode-Streak-Tracker"><img
         src="https://github-readme-stats.vercel.app/api/pin/?username=AzeemIdrisi&repo=LeetCode-Streak-Tracker" />
+</a>
+<a href="https://github.com/AzeemIdrisi/TweetifyMusic"><img
+        src="https://github-readme-stats.vercel.app/api/pin/?username=AzeemIdrisi&repo=TweetifyMusic" />
 </a>
 <a href="https://github.com/AzeemIdrisi/Noted"><img
         src="https://github-readme-stats.vercel.app/api/pin/?username=AzeemIdrisi&repo=Noted" />
@@ -170,11 +176,14 @@
 <a href="https://github.com/AzeemIdrisi/StoreX"><img
         src="https://github-readme-stats.vercel.app/api/pin/?username=AzeemIdrisi&repo=StoreX" />
 </a>
-<a href="https://github.com/AzeemIdrisi/TweetifyMusic"><img
-        src="https://github-readme-stats.vercel.app/api/pin/?username=AzeemIdrisi&repo=TweetifyMusic" />
-</a>
 <a href="https://github.com/AzeemIdrisi/ChatterBox"><img
         src="https://github-readme-stats.vercel.app/api/pin/?username=AzeemIdrisi&repo=ChatterBox" />
+</a>
+<a href="https://github.com/AzeemIdrisi/zenix"><img
+        src="https://github-readme-stats.vercel.app/api/pin/?username=AzeemIdrisi&repo=zenix" />
+</a>
+<a href="https://github.com/AzeemIdrisi/WatchGuard"><img
+        src="https://github-readme-stats.vercel.app/api/pin/?username=AzeemIdrisi&repo=WatchGuard" />
 </a>
 </details>
 
