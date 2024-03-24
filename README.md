@@ -60,79 +60,137 @@
 </p>
 
 <h3 align="left">🛠️ Tech Stack:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">  <kbd> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c"
-            width="36" /> </a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">  <kbd> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-            alt="cplusplus" width="36" /> </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">  <kbd> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-            alt="python" width="36" /> </a>
-    <a href="https://www.kotlinlang.org" target="_blank" rel="noreferrer">  <kbd> <img
-            src="https://icon.icepanel.io/Technology/svg/Kotlin.svg"
-            alt="Kotlin" width="36" /> </a>
-        <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <kbd> <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/0927fc72a1d655c12ec60178df88bef6da3b883d/icons/file_type_django.svg" width="36" alt="Django" /></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">  <kbd> <img
-            src="https://www.w3.org/html/logo/downloads/HTML5_Logo.svg"
-            alt="html" width="36" /> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">  <kbd> <img
-            src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"
-            alt="css" width="26" /> </a>
-    <a href="https://ecma-international.org/publications-and-standards/standards/ecma-262/" target="_blank" rel="noreferrer">  <kbd> <img
-            src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"
-            alt="JavaScript" width="34" /> </a>
-    <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">  <kbd> <img
-            src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"
-            alt="Bootstrap" width="42" /> </a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">  <kbd> <img
-            src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"
-            alt="Tailwind CSS" width="34" height="34" /> </a>
-    <a href="https://react.dev/" target="_blank" rel="noreferrer">  <kbd> <img
-            src="https://upload.wikimedia.org/wikipedia/commons/3/30/React_Logo_SVG.svg"
-            alt="React.js" width="34" /> </a>
-    <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">  <kbd> <img
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/BackendDevelopment/nodejs.svg"
-            alt="Node.js" width="34" /> </a>
-    <a href="https://expressjs.com/" target="_blank" rel="noreferrer">  <kbd> <img
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/BackendDevelopment/express.svg"
-            alt="Express.js" width="34" /> </a>
-    <a href="https://ejs.co/" target="_blank" rel="noreferrer">  <kbd> <img
-            src="https://www.svgrepo.com/show/373574/ejs.svg"
-            alt="EJS" width="36" /> </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">  <kbd> <img
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Database/mongodb.svg"
-            alt="MongoDB" width="38" /> </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <kbd> <img src="https://skillicons.dev/icons?i=mysql" width="36" alt="MySQL" /></a>
-<!--     <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">  <kbd> <img
-            src="https://raw.githubusercontent.com/github/explore/4479d2a2c854198cb00160f8593519c14dc3b905/topics/kotlin/kotlin.png"
-            alt="kotlin" width="36" /> </a> -->
-    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">  <kbd> <img
-            src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"
-            title="Visual Studio Code" alt="Visual Studio Code" width="36"/> </a>
-<a href="https://developer.android.com/studio/" target="_blank" rel="noreferrer">  <kbd> <img
-            src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Android_Studio_icon_%282023%29.svg"
-            alt="Android Studio" width="36" /> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">  <kbd> <img
-            src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="36"/>
-</a>
-<a href="https://www.postman.com/" target="_blank" rel="noreferrer">  <kbd> <img
-            src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Postman.svg" alt="Postman" width="36"/>
-</a>
-    <a href="https://archlinux.org/" target="_blank" rel="noreferrer"> <kbd>  <img
-            src="https://upload.wikimedia.org/wikipedia/commons/1/13/Arch_Linux_%22Crystal%22_icon.svg"
-            alt="Arch Linux" width="36" /> </a>
-    <a href="https://www.kali.org/" target="_blank" rel="noreferrer">  <kbd> <img
-            src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="Kali Linux"
-            width="36" /> </a>
-    <!--   <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png" alt="Ubuntu" width="36" height="40"/> </a>
-<a href="https://linuxmint.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Linux_Mint_logo_without_wordmark.svg" alt="Linux Mint" width="36" height="40"/> </a> -->
-    <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"> <kbd> <img
-            src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/240px-Adobe_Photoshop_CC_icon.svg.png"
-            alt="Photoshop" width="36" /> </a> <a
-        href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"> <kbd> <img
-            src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg"
-            alt="Premiere Pro" width="36" /> </a>
+<p align="left">
+<kbd
+  ><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"
+    ><img src="https://skillicons.dev/icons?i=c" alt="icons" /></a
+></kbd>
+<kbd
+  ><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"
+    ><img src="https://skillicons.dev/icons?i=cpp" alt="icons" /></a
+></kbd>
+<kbd
+  ><a href="https://www.python.org" target="_blank" rel="noreferrer"
+    ><img src="https://skillicons.dev/icons?i=python" alt="icons" /></a
+></kbd>
+<kbd
+  ><a href="https://www.kotlinlang.org/" target="_blank" rel="noreferrer"
+    ><img src="https://skillicons.dev/icons?i=kotlin" alt="icons" /></a
+></kbd>
+<kbd
+  ><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"
+    ><img src="https://skillicons.dev/icons?i=django" alt="icons" /></a
+></kbd>
+<kbd
+  ><a
+    href="https://developer.mozilla.org/en-US/docs/Web/HTML"
+    target="_blank"
+    rel="noreferrer"
+    ><img src="https://skillicons.dev/icons?i=html" alt="icons" /></a
+></kbd>
+<kbd
+  ><a
+    href="https://developer.mozilla.org/en-US/docs/Web/CSS"
+    target="_blank"
+    rel="noreferrer"
+    ><img src="https://skillicons.dev/icons?i=css" alt="icons" /></a
+></kbd>
+<kbd
+  ><a
+    href="https://ecma-international.org/publications-and-standards/standards/ecma-262/"
+    target="_blank"
+    rel="noreferrer"
+    ><img src="https://skillicons.dev/icons?i=javascript" alt="icons" /></a
+></kbd>
+<kbd
+  ><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"
+    ><img src="https://skillicons.dev/icons?i=bootstrap" alt="icons" /></a
+></kbd>
+<kbd
+  ><a href="https://jquery.com/" target="_blank" rel="noreferrer"
+    ><img src="https://skillicons.dev/icons?i=jquery" alt="icons" /></a
+></kbd>
+<kbd
+  ><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"
+    ><img src="https://skillicons.dev/icons?i=tailwind" alt="icons" /></a
+></kbd>
+<kbd
+  ><a href="https://react.dev/" target="_blank" rel="noreferrer"
+    ><img src="https://skillicons.dev/icons?i=react" alt="icons" /></a
+></kbd>
+<kbd
+  ><a href="https://nodejs.org/en" target="_blank" rel="noreferrer"
+    ><img src="https://skillicons.dev/icons?i=nodejs" alt="icons" /></a
+></kbd>
+<kbd
+  ><a href="https://expressjs.com/" target="_blank" rel="noreferrer"
+    ><img src="https://skillicons.dev/icons?i=express" alt="icons" /></a
+></kbd>
+<kbd
+  ><a href="https://ejs.co/" target="_blank" rel="noreferrer"
+    ><img
+      width="50px"
+      src="https://www.svgrepo.com/show/373574/ejs.svg"
+      alt="ejs" /></a
+></kbd>
+<kbd
+  ><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"
+    ><img src="https://skillicons.dev/icons?i=mongo" alt="icons" /></a
+></kbd>
+<kbd
+  ><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"
+    ><img src="https://skillicons.dev/icons?i=mysql" alt="icons" /></a
+></kbd>
+<kbd
+  ><a href="https://git-scm.com/" target="_blank" rel="noreferrer"
+    ><img src="https://skillicons.dev/icons?i=git" alt="icons" /></a
+></kbd>
+<kbd
+  ><a href="https://github.com/" target="_blank" rel="noreferrer"
+    ><img src="https://skillicons.dev/icons?i=github" alt="icons" /></a
+></kbd>
+<kbd
+  ><a
+    href="https://developer.android.com/studio/"
+    target="_blank"
+    rel="noreferrer"
+    ><img src="https://skillicons.dev/icons?i=androidstudio" alt="icons" /></a
+></kbd>
+<kbd
+  ><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"
+    ><img src="https://skillicons.dev/icons?i=vscode" alt="icons" /></a
+></kbd>
+<kbd
+  ><a href="https://www.postman.com/" target="_blank" rel="noreferrer"
+    ><img src="https://skillicons.dev/icons?i=postman" alt="icons" /></a
+></kbd>
+<kbd
+  ><a
+    href="https://www.adobe.com/uk/products/photoshop.html"
+    target="_blank"
+    rel="noreferrer"
+    ><img src="https://skillicons.dev/icons?i=photoshop" alt="icons" /></a
+></kbd>
+<kbd
+  ><a
+    href="https://www.adobe.com/uk/products/premiere.html"
+    target="_blank"
+    rel="noreferrer"
+    ><img src="https://skillicons.dev/icons?i=pr" alt="icons" /></a
+></kbd>
+<kbd
+  ><a href="https://www.linux.org/" target="_blank" rel="noreferrer"
+    ><img src="https://skillicons.dev/icons?i=linux" alt="icons" /></a
+></kbd>
+<kbd
+  ><a href="https://archlinux.org/" target="_blank" rel="noreferrer"
+    ><img src="https://skillicons.dev/icons?i=arch" alt="icons" /></a
+></kbd>
+<kbd
+  ><a href="https://kali.org/" target="_blank" rel="noreferrer"
+    ><img src="https://skillicons.dev/icons?i=kali" alt="icons" /></a
+></kbd>
+
 </p>
 
 <h3 align="left">⚙️ Projects:</h3>
