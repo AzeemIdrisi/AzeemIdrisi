@@ -467,8 +467,8 @@
 </a>
 
 </br>
-<a href="https://github.com/AzeemIdrisi/XeroSploit-Pro#gh-light-mode-only"><img
-  src="https://github-readme-stats.vercel.app/api/pin/?username=AzeemIdrisi&repo=XeroSploit-Pro" />
+<a href="https://github.com/AzeemIdrisi/InstaLoaderWeb#gh-light-mode-only"><img
+  src="https://github-readme-stats.vercel.app/api/pin/?username=AzeemIdrisi&repo=InstaLoaderWeb" />
 </a>
 <a href="https://github.com/AzeemIdrisi/SwiftChat#gh-light-mode-only"><img
   src="https://github-readme-stats.vercel.app/api/pin/?username=AzeemIdrisi&repo=SwiftChat" />
@@ -488,8 +488,8 @@
 </a>
 
 </br>
-<a href="https://github.com/AzeemIdrisi/XeroSploit-Pro#gh-dark-mode-only"><img
-  src="https://github-readme-stats.vercel.app/api/pin/?username=AzeemIdrisi&repo=XeroSploit-Pro&theme=github_dark" />
+<a href="https://github.com/AzeemIdrisi/InstaLoaderWeb#gh-dark-mode-only"><img
+  src="https://github-readme-stats.vercel.app/api/pin/?username=AzeemIdrisi&repo=InstaLoaderWeb&theme=github_dark" />
 </a>
 <a href="https://github.com/AzeemIdrisi/SwiftChat#gh-dark-mode-only"><img
   src="https://github-readme-stats.vercel.app/api/pin/?username=AzeemIdrisi&repo=SwiftChat&theme=github_dark" />
@@ -547,6 +547,12 @@
 </a>
 <a href="https://github.com/AzeemIdrisi/WatchGuard#gh-dark-mode-only"><img
   src="https://github-readme-stats.vercel.app/api/pin/?username=AzeemIdrisi&repo=WatchGuard&theme=github_dark" />
+</a>
+<a href="https://github.com/AzeemIdrisi/XeroSploit-Pro#gh-light-mode-only"><img
+  src="https://github-readme-stats.vercel.app/api/pin/?username=AzeemIdrisi&repo=XeroSploit-Pro" />
+</a>
+<a href="https://github.com/AzeemIdrisi/XeroSploit-Pro#gh-dark-mode-only"><img
+  src="https://github-readme-stats.vercel.app/api/pin/?username=AzeemIdrisi&repo=XeroSploit-Pro&theme=github_dark" />
 </a>
 </details>
 
