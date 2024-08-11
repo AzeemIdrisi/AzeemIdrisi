@@ -15,7 +15,7 @@
 
 - 🤝🏻 I’m open to working on projects involving **Hacking**, **Linux**, **Python**, **Web Apps** etc.
 
-- 📫 Reach me at : **<azeemidrisi@protonmail.com>**
+- 📫 Reach me at : **<azeemidrisiofficial@gmail.com>**
 
 - 📱 Connect with me : **[Linktree/AzeemIdrisi](https://linktr.ee/AzeemIdrisi)**
 
