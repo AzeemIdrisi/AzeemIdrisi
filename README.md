@@ -239,6 +239,18 @@
 </kbd>
 
 <kbd>
+  <a href="https://expo.dev/" target="_blank" rel="noreferrer">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://github.com/user-attachments/assets/7e0ec6c3-fd13-4dcd-a577-68313ca29c16"
+      />
+      <img src="https://github.com/user-attachments/assets/3224622d-c4ef-45ac-a46c-c94ee7e59950" alt="icons" height="48" width="48" />
+    </picture>
+  </a>
+</kbd>
+
+<kbd>
   <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
     <picture>
       <source
