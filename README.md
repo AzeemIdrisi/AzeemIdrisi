@@ -13,7 +13,7 @@
 - 💻 I’m currently working on [**PhoneSploit Pro**](https://github.com/AzeemIdrisi/PhoneSploit-Pro) and
 [**InstaLoaderApp**](https://github.com/AzeemIdrisi/InstaLoaderApp).
 
-- 🤝🏻 I’m open to working on projects involving **Hacking**, **Linux**, **Python**, **Web Apps** etc.
+- 🤝🏻 I’m open to working on projects involving **Hacking**, **React Native**, **MERN**, **Linux**, **Python**, **Web Apps** etc.
 
 - 📫 Reach me at : **<azeemidrisiofficial@gmail.com>**
 
