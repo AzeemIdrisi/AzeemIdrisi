@@ -180,6 +180,24 @@
     </picture>
   </a>
 </kbd>
+<kbd>
+  <a
+    href="https://www.typescriptlang.org/"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://skillicons.dev/icons?i=typescript"
+      />
+      <img
+        src="https://skillicons.dev/icons?i=typescript&theme=light"
+        alt="icons"
+      />
+    </picture>
+  </a>
+</kbd>
 
 <kbd>
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
@@ -280,15 +298,22 @@
   </a>
 </kbd>
 
+
 <kbd>
-  <a href="https://ejs.co/" target="_blank" rel="noreferrer">
-    <img
-      width="50px"
-      src="https://www.svgrepo.com/show/373574/ejs.svg"
-      alt="ejs"
-    />
+  <a href="https://redux-toolkit.js.org/" target="_blank" rel="noreferrer">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://skillicons.dev/icons?i=redux"
+      />
+      <img
+        src="https://skillicons.dev/icons?i=redux&theme=light"
+        alt="icons"
+      />
+    </picture>
   </a>
 </kbd>
+
 
 <kbd>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
@@ -383,6 +408,36 @@
       />
       <img
         src="https://skillicons.dev/icons?i=postman&theme=light"
+        alt="icons"
+      />
+    </picture>
+  </a>
+</kbd>
+
+<kbd>
+  <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://skillicons.dev/icons?i=npm"
+      />
+      <img
+        src="https://skillicons.dev/icons?i=npm&theme=light"
+        alt="icons"
+      />
+    </picture>
+  </a>
+</kbd>
+
+<kbd>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://skillicons.dev/icons?i=docker"
+      />
+      <img
+        src="https://skillicons.dev/icons?i=docker&theme=light"
         alt="icons"
       />
     </picture>
