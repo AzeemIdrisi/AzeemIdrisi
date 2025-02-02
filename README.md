@@ -366,6 +366,21 @@
 </kbd>
 
 <kbd>
+  <a href="https://bitbucket.com/" target="_blank" rel="noreferrer">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://skillicons.dev/icons?i=bitbucket"
+      />
+      <img
+        src="https://skillicons.dev/icons?i=bitbucket&theme=light"
+        alt="icons"
+      />
+    </picture>
+  </a>
+</kbd>
+
+<kbd>
   <a
     href="https://developer.android.com/studio/"
     target="_blank"
