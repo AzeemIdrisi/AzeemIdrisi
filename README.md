@@ -1,6 +1,6 @@
 <!-- [![MasterHead] -->
 <h1 align="center">👋🏻 Hey there, I'm Azeem</h1>
-<h3 align="center"> CSE Undergrad | Aspiring Software Engineer, Ethical Hacker & CyberSecurity Expert</h3>
+<h3 align="center"> CSE Undergrad | Software Development Engineer | Aspiring Ethical Hacker</h3>
 
 <p align="left"> <img
         src="https://komarev.com/ghpvc/?username=azeemidrisi&label=Profile%20views&color=0e75b6&style=flat"
@@ -8,7 +8,7 @@
 
 <img align="right" alt="Coding" width="400" src="docs/avento.gif" />
 
-- 🧑🏻‍💻 I’m currently learning **MERN** and  **React Native**.
+- 🧑🏻‍💻 I’m currently learning **Next.js** and  **NestJS**.
 
 - 💻 I’m currently working on [**PhoneSploit Pro**](https://github.com/AzeemIdrisi/PhoneSploit-Pro) and
 [**InstaLoaderApp**](https://github.com/AzeemIdrisi/InstaLoaderApp).
