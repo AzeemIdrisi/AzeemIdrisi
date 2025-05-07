@@ -46,7 +46,7 @@
         <a href="https://www.facebook.com/Azeem.5202" target="_blank"
         rel="noreferrer"> <kbd> <img
             src="https://upload.wikimedia.org/wikipedia/en/0/04/Facebook_f_logo_%282021%29.svg"
-            width="40" height="32" /></a> <a href="http://www.instagram.com/azeem_5202" target="_blank"
+            width="40" height="32" /></a> <a href="http://www.instagram.com/azeemidrisiofficial" target="_blank"
         rel="noreferrer"> <kbd> <img
             src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg"
             width="40" height="32" /></a> <a href="https://www.linkedin.com/in/azeem5202" target="_blank"
