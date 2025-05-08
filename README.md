@@ -257,6 +257,18 @@
 </kbd>
 
 <kbd>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://skillicons.dev/icons?i=next"
+      />
+      <img src="https://skillicons.dev/icons?i=next&theme=light" alt="icons" />
+    </picture>
+  </a>
+</kbd>
+
+<kbd>
   <a href="https://expo.dev/" target="_blank" rel="noreferrer">
     <picture>
       <source
