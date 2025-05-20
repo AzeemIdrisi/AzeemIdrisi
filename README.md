@@ -269,6 +269,18 @@
 </kbd>
 
 <kbd>
+  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://skillicons.dev/icons?i=nestjs"
+      />
+      <img src="https://skillicons.dev/icons?i=nestjs&theme=light" alt="icons" />
+    </picture>
+  </a>
+</kbd>
+
+<kbd>
   <a href="https://expo.dev/" target="_blank" rel="noreferrer">
     <picture>
       <source
@@ -346,6 +358,18 @@
         srcset="https://skillicons.dev/icons?i=mysql"
       />
       <img src="https://skillicons.dev/icons?i=mysql&theme=light" alt="icons" />
+    </picture>
+  </a>
+</kbd>
+
+<kbd>
+  <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://skillicons.dev/icons?i=prisma"
+      />
+      <img src="https://skillicons.dev/icons?i=prisma&theme=light" alt="icons" />
     </picture>
   </a>
 </kbd>
