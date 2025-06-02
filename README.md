@@ -531,6 +531,18 @@
 </kbd>
 
 <kbd>
+  <a href="https://www.apple.com/in/macos" target="_blank" rel="noreferrer">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://skillicons.dev/icons?i=apple"
+      />
+      <img src="https://skillicons.dev/icons?i=apple&theme=light" alt="icons" />
+    </picture>
+  </a>
+</kbd>
+
+<kbd>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <picture>
       <source
