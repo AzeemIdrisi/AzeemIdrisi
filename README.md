@@ -1,6 +1,6 @@
 <!-- [![MasterHead] -->
 <h1 align="center">👋🏻 Hey there, I'm Azeem</h1>
-<h3 align="center"> CSE Undergrad | Software Development Engineer | Aspiring Ethical Hacker</h3>
+<h3 align="center"> CSE Grad | Software Development Engineer | Aspiring Ethical Hacker</h3>
 
 <p align="left"> <img
         src="https://komarev.com/ghpvc/?username=azeemidrisi&label=Profile%20views&color=0e75b6&style=flat"
