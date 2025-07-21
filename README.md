@@ -8,12 +8,12 @@
 
 <img align="right" alt="Coding" width="400" src="docs/avento.gif" />
 
-- 🧑🏻‍💻 I’m currently learning **Next.js** and  **NestJS**.
+- 🧑🏻‍💻 I’m currently learning **Java** and  **Spring Boot**.
 
 - 💻 I’m currently working on [**PhoneSploit Pro**](https://github.com/AzeemIdrisi/PhoneSploit-Pro) and
 [**InstaLoaderApp**](https://github.com/AzeemIdrisi/InstaLoaderApp).
 
-- 🤝🏻 I’m open to working on projects involving **Hacking**, **React Native**, **MERN**, **Linux**, **Python**, **Web Apps** etc.
+- 🤝🏻 I’m open to collaborating on projects involving **React Native Apps**, **Hacking Tools**, **Full-Stack Web Apps**, **Linux Tools**, **Python Scripts** etc.
 
 - 📫 Reach me at : **<azeemidrisiofficial@gmail.com>**
 
