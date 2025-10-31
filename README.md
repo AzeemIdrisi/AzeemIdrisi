@@ -8,7 +8,7 @@
 
 <img align="right" alt="Coding" width="400" src="docs/avento.gif" />
 
-- 🧑🏻‍💻 I’m currently learning **Java** and  **Spring Boot**.
+- 🧑🏻‍💻 I’m currently learning **NestJS**
 
 - 💻 I’m currently working on [**PhoneSploit Pro**](https://github.com/AzeemIdrisi/PhoneSploit-Pro) and
 [**InstaLoaderApp**](https://github.com/AzeemIdrisi/InstaLoaderApp).
