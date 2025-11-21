@@ -208,21 +208,6 @@
 </kbd>
 
 <kbd>
-  <a href="https://jquery.com/" target="_blank" rel="noreferrer">
-    <picture>
-      <source
-        media="(prefers-color-scheme: dark)"
-        srcset="https://skillicons.dev/icons?i=jquery"
-      />
-      <img
-        src="https://skillicons.dev/icons?i=jquery&theme=light"
-        alt="icons"
-      />
-    </picture>
-  </a>
-</kbd>
-
-<kbd>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <picture>
       <source
@@ -484,41 +469,6 @@
         src="https://skillicons.dev/icons?i=docker&theme=light"
         alt="icons"
       />
-    </picture>
-  </a>
-</kbd>
-
-<kbd>
-  <a
-    href="https://www.adobe.com/uk/products/photoshop.html"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <picture>
-      <source
-        media="(prefers-color-scheme: dark)"
-        srcset="https://skillicons.dev/icons?i=photoshop"
-      />
-      <img
-        src="https://skillicons.dev/icons?i=photoshop&theme=light"
-        alt="icons"
-      />
-    </picture>
-  </a>
-</kbd>
-
-<kbd>
-  <a
-    href="https://www.adobe.com/uk/products/premiere.html"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <picture>
-      <source
-        media="(prefers-color-scheme: dark)"
-        srcset="https://skillicons.dev/icons?i=pr"
-      />
-      <img src="https://skillicons.dev/icons?i=pr&theme=light" alt="icons" />
     </picture>
   </a>
 </kbd>
