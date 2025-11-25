@@ -23,7 +23,7 @@
 
 <h3 align="left">🤙🏻 Connect with me:</h3>
 <p align="left">
-        <a href="https://www.hackerrank.com/profile/azeem_5202" target="_blank" rel="noreferrer"> <kbd> <img
+        <!-- <a href="https://www.hackerrank.com/profile/azeem_5202" target="_blank" rel="noreferrer"> <kbd> <img
             src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png"
             width="34" /></a>
         <a href="https://leetcode.com/AzeemIdrisi/" target="_blank" rel="noreferrer"> <kbd> <img
@@ -31,7 +31,7 @@
             width="34" /></a>
         <a href="https://www.codechef.com/users/azeem_idrisi" target="_blank" rel="noreferrer"> <kbd> <img
             src="https://static.uacdn.net/thumbnail/external-app-icons/ce4fd2180646452aa0b03c3ffa3ef8e2.png"
-            width="34" /></a>
+            width="34" /></a> -->
         <a href="https://www.stackoverflow.com/users/20801729/mohd-azeem"
         target="_blank" rel="noreferrer"> <kbd> <img
             src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg"
