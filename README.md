@@ -11,7 +11,7 @@
 - 🧑🏻‍💻 I’m currently learning **NestJS**
 
 - 💻 I’m currently working on [**PhoneSploit Pro**](https://github.com/AzeemIdrisi/PhoneSploit-Pro) and
-[**InstaLoaderApp**](https://github.com/AzeemIdrisi/InstaLoaderApp).
+  [**InstaLoaderApp**](https://github.com/AzeemIdrisi/InstaLoaderApp).
 
 - 🤝🏻 I’m open to collaborating on projects involving **React Native Apps**, **Hacking Tools**, **Full-Stack Web Apps**, **Linux Tools**, **Python Scripts** etc.
 
@@ -23,15 +23,6 @@
 
 <h3 align="left">🤙🏻 Connect with me:</h3>
 <p align="left">
-        <!-- <a href="https://www.hackerrank.com/profile/azeem_5202" target="_blank" rel="noreferrer"> <kbd> <img
-            src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png"
-            width="34" /></a>
-        <a href="https://leetcode.com/AzeemIdrisi/" target="_blank" rel="noreferrer"> <kbd> <img
-            src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"
-            width="34" /></a>
-        <a href="https://www.codechef.com/users/azeem_idrisi" target="_blank" rel="noreferrer"> <kbd> <img
-            src="https://static.uacdn.net/thumbnail/external-app-icons/ce4fd2180646452aa0b03c3ffa3ef8e2.png"
-            width="34" /></a> -->
         <a href="https://www.stackoverflow.com/users/20801729/mohd-azeem"
         target="_blank" rel="noreferrer"> <kbd> <img
             src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg"
@@ -54,6 +45,42 @@
 
 <h3 align="left">🛠️ Tech Stack:</h3>
 <p align="left">
+<kbd>
+  <a
+    href="https://ecma-international.org/publications-and-standards/standards/ecma-262/"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://skillicons.dev/icons?i=javascript"
+      />
+      <img
+        src="https://skillicons.dev/icons?i=javascript&theme=light"
+        alt="icons"
+      />
+    </picture>
+  </a>
+</kbd>
+<kbd>
+  <a
+    href="https://www.typescriptlang.org/"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://skillicons.dev/icons?i=typescript"
+      />
+      <img
+        src="https://skillicons.dev/icons?i=typescript&theme=light"
+        alt="icons"
+      />
+    </picture>
+  </a>
+</kbd>
 <kbd>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <picture>
@@ -154,59 +181,6 @@
     </picture>
   </a>
 </kbd>
-
-<kbd>
-  <a
-    href="https://ecma-international.org/publications-and-standards/standards/ecma-262/"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <picture>
-      <source
-        media="(prefers-color-scheme: dark)"
-        srcset="https://skillicons.dev/icons?i=javascript"
-      />
-      <img
-        src="https://skillicons.dev/icons?i=javascript&theme=light"
-        alt="icons"
-      />
-    </picture>
-  </a>
-</kbd>
-<kbd>
-  <a
-    href="https://www.typescriptlang.org/"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <picture>
-      <source
-        media="(prefers-color-scheme: dark)"
-        srcset="https://skillicons.dev/icons?i=typescript"
-      />
-      <img
-        src="https://skillicons.dev/icons?i=typescript&theme=light"
-        alt="icons"
-      />
-    </picture>
-  </a>
-</kbd>
-
-<kbd>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-    <picture>
-      <source
-        media="(prefers-color-scheme: dark)"
-        srcset="https://skillicons.dev/icons?i=bootstrap"
-      />
-      <img
-        src="https://skillicons.dev/icons?i=bootstrap&theme=light"
-        alt="icons"
-      />
-    </picture>
-  </a>
-</kbd>
-
 <kbd>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <picture>
@@ -242,6 +216,30 @@
         srcset="https://skillicons.dev/icons?i=next"
       />
       <img src="https://skillicons.dev/icons?i=next&theme=light" alt="icons" />
+    </picture>
+  </a>
+</kbd>
+
+<kbd>
+  <a href="https://vite.dev/" target="_blank" rel="noreferrer">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://skillicons.dev/icons?i=vite"
+      />
+      <img src="https://skillicons.dev/icons?i=vite&theme=light" alt="icons" />
+    </picture>
+  </a>
+</kbd>
+
+<kbd>
+  <a href="https://tanstack.com/query" target="_blank" rel="noreferrer">
+    <picture >
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://raw.githubusercontent.com/TanStack/query/refs/heads/main/media/emblem-light.svg"
+      />
+      <img src="https://raw.githubusercontent.com/TanStack/query/refs/heads/main/media/emblem-light.svg" alt="icons"  height="48" width="48"/>
     </picture>
   </a>
 </kbd>
@@ -300,7 +298,6 @@
   </a>
 </kbd>
 
-
 <kbd>
   <a href="https://redux-toolkit.js.org/" target="_blank" rel="noreferrer">
     <picture>
@@ -316,6 +313,22 @@
   </a>
 </kbd>
 
+<kbd>
+  <a href="https://zustand-demo.pmnd.rs/" target="_blank" rel="noreferrer">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg"
+      />
+      <img
+        src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg"
+        alt="icons"
+        height="50"
+        width="50"
+      />
+    </picture>
+  </a>
+</kbd>
 
 <kbd>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
@@ -336,6 +349,18 @@
         srcset="https://skillicons.dev/icons?i=mysql"
       />
       <img src="https://skillicons.dev/icons?i=mysql&theme=light" alt="icons" />
+    </picture>
+  </a>
+</kbd>
+
+<kbd>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://skillicons.dev/icons?i=postgresql"
+      />
+      <img src="https://skillicons.dev/icons?i=postgresql&theme=light" alt="icons" />
     </picture>
   </a>
 </kbd>
@@ -429,6 +454,21 @@
 </kbd>
 
 <kbd>
+  <a href="https://sublimetext.com/" target="_blank" rel="noreferrer">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://skillicons.dev/icons?i=sublime"
+      />
+      <img
+        src="https://skillicons.dev/icons?i=sublime&theme=light"
+        alt="icons"
+      />
+    </picture>
+  </a>
+</kbd>
+
+<kbd>
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
     <picture>
       <source
@@ -459,6 +499,21 @@
 </kbd>
 
 <kbd>
+  <a href="https://www.bun.com/" target="_blank" rel="noreferrer">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://skillicons.dev/icons?i=bun"
+      />
+      <img
+        src="https://skillicons.dev/icons?i=bun&theme=light"
+        alt="icons"
+      />
+    </picture>
+  </a>
+</kbd>
+
+<kbd>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <picture>
       <source
@@ -467,6 +522,36 @@
       />
       <img
         src="https://skillicons.dev/icons?i=docker&theme=light"
+        alt="icons"
+      />
+    </picture>
+  </a>
+</kbd>
+
+<kbd>
+  <a href="https://www.redis.io/" target="_blank" rel="noreferrer">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://skillicons.dev/icons?i=redis"
+      />
+      <img
+        src="https://skillicons.dev/icons?i=redis&theme=light"
+        alt="icons"
+      />
+    </picture>
+  </a>
+</kbd>
+
+<kbd>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://skillicons.dev/icons?i=aws"
+      />
+      <img
+        src="https://skillicons.dev/icons?i=aws&theme=light"
         alt="icons"
       />
     </picture>
@@ -521,6 +606,17 @@
   </a>
 </kbd>
 
+<kbd>
+  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://skillicons.dev/icons?i=ubuntu"
+      />
+      <img src="https://skillicons.dev/icons?i=ubuntu&theme=light" alt="icons" />
+    </picture>
+  </a>
+</kbd>
 
 </p>
 
@@ -627,8 +723,8 @@
 <a href="https://github.com/AzeemIdrisi/XeroSploit-Pro#gh-dark-mode-only"><img
   src="https://github-readme-stats.vercel.app/api/pin/?username=AzeemIdrisi&repo=XeroSploit-Pro&theme=github_dark" />
 </a>
-</details>
 
+</details>
 
 <picture>
     <source media="(prefers-color-scheme: dark)"
@@ -652,7 +748,6 @@
     <img alt="Shows Anuraghazra's GitHub Stats." src="https://github-readme-streak-stats.herokuapp.com/?user=azeemidrisi">
   </picture>
 
-
 <h3 align="left">🚀 Like my work? Support me here:</h3>
 <a href="https://www.buymeacoffee.com/AzeemIdrisi" target="_blank"> <kbd> <img
         src="docs/default-yellow.png" alt="Buy Me A Coffee"
@@ -660,4 +755,3 @@
 <a href="https://paypal.me/AzeemIdrisi" target="_blank"> <kbd> <img
         src="docs/paypal-button-blue.png" alt="PayPal"
         width="148"></a>
-
