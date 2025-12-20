@@ -469,6 +469,22 @@
 </kbd>
 
 <kbd>
+  <a href="https://cursor.com/" target="_blank" rel="noreferrer">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://cursor.com/favicon.ico"
+      />
+      <img
+        src="https://cursor.com/favicon.ico"
+        alt="icons"
+        height="48" width="48"
+      />
+    </picture>
+  </a>
+</kbd>
+
+<kbd>
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
     <picture>
       <source
