@@ -760,8 +760,8 @@
     <img alt="Shows Azeem Idrisi's GitHub Stats." src="https://github-readme-stats-two-pi-72.vercel.app/api?username=azeemidrisi&show_icons=true&include_all_commits=true&locale=en">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=azeemidrisi&theme=dark">
-    <img alt="Shows Azeem Idrisi's GitHub Stats." src="https://github-readme-streak-stats.herokuapp.com/?user=azeemidrisi">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-murex-seven.vercel.app/?user=azeemidrisi&theme=dark">
+    <img alt="Shows Azeem Idrisi's GitHub Stats." src="https://github-readme-streak-stats-murex-seven.vercel.app/?user=azeemidrisi">
   </picture>
 
 <h3 align="left">🚀 Like my work? Support me here:</h3>
