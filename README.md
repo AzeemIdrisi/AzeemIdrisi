@@ -639,45 +639,45 @@
 <h3 align="left">⚙️ Projects:</h3>
 
 <a href="https://github.com/AzeemIdrisi/PhoneSploit-Pro#gh-light-mode-only"><img
-  src="https://github-readme-stats.vercel.app/api/pin/?username=AzeemIdrisi&repo=PhoneSploit-Pro" />
+  src="https://github-readme-stats-two-pi-72.vercel.app/api/pin/?username=AzeemIdrisi&repo=PhoneSploit-Pro" />
 </a>
 <a href="https://github.com/AzeemIdrisi/InstaLoaderApp#gh-light-mode-only"><img
-  src="https://github-readme-stats.vercel.app/api/pin/?username=AzeemIdrisi&repo=InstaLoaderApp" />
+  src="https://github-readme-stats-two-pi-72.vercel.app/api/pin/?username=AzeemIdrisi&repo=InstaLoaderApp" />
 </a>
 <a href="https://github.com/AzeemIdrisi/QR-Attendance-System#gh-light-mode-only"><img
-  src="https://github-readme-stats.vercel.app/api/pin/?username=AzeemIdrisi&repo=QR-Attendance-System" />
+  src="https://github-readme-stats-two-pi-72.vercel.app/api/pin/?username=AzeemIdrisi&repo=QR-Attendance-System" />
 </a>
 <a href="https://github.com/AlphaCorpIN/Hacking-Repos#gh-light-mode-only"><img
-  src="https://github-readme-stats.vercel.app/api/pin/?username=AlphaCorpIN&repo=Hacking-Repos" />
+  src="https://github-readme-stats-two-pi-72.vercel.app/api/pin/?username=AlphaCorpIN&repo=Hacking-Repos" />
 </a>
 
 </br>
 <a href="https://github.com/AzeemIdrisi/InstaLoaderWeb#gh-light-mode-only"><img
-  src="https://github-readme-stats.vercel.app/api/pin/?username=AzeemIdrisi&repo=InstaLoaderWeb" />
+  src="https://github-readme-stats-two-pi-72.vercel.app/api/pin/?username=AzeemIdrisi&repo=InstaLoaderWeb" />
 </a>
 <a href="https://github.com/AzeemIdrisi/SwiftChat#gh-light-mode-only"><img
-  src="https://github-readme-stats.vercel.app/api/pin/?username=AzeemIdrisi&repo=SwiftChat" />
+  src="https://github-readme-stats-two-pi-72.vercel.app/api/pin/?username=AzeemIdrisi&repo=SwiftChat" />
 </a>
 
 <a href="https://github.com/AzeemIdrisi/PhoneSploit-Pro#gh-dark-mode-only"><img
-  src="https://github-readme-stats.vercel.app/api/pin/?username=AzeemIdrisi&repo=PhoneSploit-Pro&theme=github_dark" />
+  src="https://github-readme-stats-two-pi-72.vercel.app/api/pin/?username=AzeemIdrisi&repo=PhoneSploit-Pro&theme=github_dark" />
 </a>
 <a href="https://github.com/AzeemIdrisi/InstaLoaderApp#gh-dark-mode-only"><img
-  src="https://github-readme-stats.vercel.app/api/pin/?username=AzeemIdrisi&repo=InstaLoaderApp&theme=github_dark" />
+  src="https://github-readme-stats-two-pi-72.vercel.app/api/pin/?username=AzeemIdrisi&repo=InstaLoaderApp&theme=github_dark" />
 </a>
 <a href="https://github.com/AzeemIdrisi/QR-Attendance-System#gh-dark-mode-only"><img
-  src="https://github-readme-stats.vercel.app/api/pin/?username=AzeemIdrisi&repo=QR-Attendance-System&theme=github_dark" />
+  src="https://github-readme-stats-two-pi-72.vercel.app/api/pin/?username=AzeemIdrisi&repo=QR-Attendance-System&theme=github_dark" />
 </a>
 <a href="https://github.com/AlphaCorpIN/Hacking-Repos#gh-dark-mode-only"><img
-  src="https://github-readme-stats.vercel.app/api/pin/?username=AlphaCorpIN&repo=Hacking-Repos&theme=github_dark" />
+  src="https://github-readme-stats-two-pi-72.vercel.app/api/pin/?username=AlphaCorpIN&repo=Hacking-Repos&theme=github_dark" />
 </a>
 
 </br>
 <a href="https://github.com/AzeemIdrisi/InstaLoaderWeb#gh-dark-mode-only"><img
-  src="https://github-readme-stats.vercel.app/api/pin/?username=AzeemIdrisi&repo=InstaLoaderWeb&theme=github_dark" />
+  src="https://github-readme-stats-two-pi-72.vercel.app/api/pin/?username=AzeemIdrisi&repo=InstaLoaderWeb&theme=github_dark" />
 </a>
 <a href="https://github.com/AzeemIdrisi/SwiftChat#gh-dark-mode-only"><img
-  src="https://github-readme-stats.vercel.app/api/pin/?username=AzeemIdrisi&repo=SwiftChat&theme=github_dark" />
+  src="https://github-readme-stats-two-pi-72.vercel.app/api/pin/?username=AzeemIdrisi&repo=SwiftChat&theme=github_dark" />
 </a>
 
 <details>
@@ -685,59 +685,59 @@
 <summary><h3> More Useful Repos [Click to expand]</h3></summary>
 
 <a href="https://github.com/AzeemIdrisi/LeetCode-Streak-Tracker#gh-light-mode-only"><img
-  src="https://github-readme-stats.vercel.app/api/pin/?username=AzeemIdrisi&repo=LeetCode-Streak-Tracker" />
+  src="https://github-readme-stats-two-pi-72.vercel.app/api/pin/?username=AzeemIdrisi&repo=LeetCode-Streak-Tracker" />
 </a>
 <a href="https://github.com/AzeemIdrisi/TweetifyMusic#gh-light-mode-only"><img
-  src="https://github-readme-stats.vercel.app/api/pin/?username=AzeemIdrisi&repo=TweetifyMusic" />
+  src="https://github-readme-stats-two-pi-72.vercel.app/api/pin/?username=AzeemIdrisi&repo=TweetifyMusic" />
 </a>
 <a href="https://github.com/AzeemIdrisi/Noted#gh-light-mode-only"><img
-  src="https://github-readme-stats.vercel.app/api/pin/?username=AzeemIdrisi&repo=Noted" />
+  src="https://github-readme-stats-two-pi-72.vercel.app/api/pin/?username=AzeemIdrisi&repo=Noted" />
 </a>
 <a href="https://github.com/AzeemIdrisi/SwiftChat-Android#gh-light-mode-only"><img
-  src="https://github-readme-stats.vercel.app/api/pin/?username=AzeemIdrisi&repo=SwiftChat-Android" />
+  src="https://github-readme-stats-two-pi-72.vercel.app/api/pin/?username=AzeemIdrisi&repo=SwiftChat-Android" />
 </a>
 <a href="https://github.com/AzeemIdrisi/StoreX#gh-light-mode-only"><img
-  src="https://github-readme-stats.vercel.app/api/pin/?username=AzeemIdrisi&repo=StoreX" />
+  src="https://github-readme-stats-two-pi-72.vercel.app/api/pin/?username=AzeemIdrisi&repo=StoreX" />
 </a>
 <a href="https://github.com/AzeemIdrisi/ChatterBox#gh-light-mode-only"><img
-  src="https://github-readme-stats.vercel.app/api/pin/?username=AzeemIdrisi&repo=ChatterBox" />
+  src="https://github-readme-stats-two-pi-72.vercel.app/api/pin/?username=AzeemIdrisi&repo=ChatterBox" />
 </a>
 <a href="https://github.com/AzeemIdrisi/zenix#gh-light-mode-only"><img
-  src="https://github-readme-stats.vercel.app/api/pin/?username=AzeemIdrisi&repo=zenix" />
+  src="https://github-readme-stats-two-pi-72.vercel.app/api/pin/?username=AzeemIdrisi&repo=zenix" />
 </a>
 <a href="https://github.com/AzeemIdrisi/WatchGuard#gh-light-mode-only"><img
-  src="https://github-readme-stats.vercel.app/api/pin/?username=AzeemIdrisi&repo=WatchGuard" />
+  src="https://github-readme-stats-two-pi-72.vercel.app/api/pin/?username=AzeemIdrisi&repo=WatchGuard" />
 </a>
 
 <a href="https://github.com/AzeemIdrisi/LeetCode-Streak-Tracker#gh-dark-mode-only"><img
-  src="https://github-readme-stats.vercel.app/api/pin/?username=AzeemIdrisi&repo=LeetCode-Streak-Tracker&theme=github_dark" />
+  src="https://github-readme-stats-two-pi-72.vercel.app/api/pin/?username=AzeemIdrisi&repo=LeetCode-Streak-Tracker&theme=github_dark" />
 </a>
 <a href="https://github.com/AzeemIdrisi/TweetifyMusic#gh-dark-mode-only"><img
-  src="https://github-readme-stats.vercel.app/api/pin/?username=AzeemIdrisi&repo=TweetifyMusic&theme=github_dark" />
+  src="https://github-readme-stats-two-pi-72.vercel.app/api/pin/?username=AzeemIdrisi&repo=TweetifyMusic&theme=github_dark" />
 </a>
 <a href="https://github.com/AzeemIdrisi/Noted#gh-dark-mode-only"><img
-  src="https://github-readme-stats.vercel.app/api/pin/?username=AzeemIdrisi&repo=Noted&theme=github_dark" />
+  src="https://github-readme-stats-two-pi-72.vercel.app/api/pin/?username=AzeemIdrisi&repo=Noted&theme=github_dark" />
 </a>
 <a href="https://github.com/AzeemIdrisi/SwiftChat-Android#gh-dark-mode-only"><img
-  src="https://github-readme-stats.vercel.app/api/pin/?username=AzeemIdrisi&repo=SwiftChat-Android&theme=github_dark" />
+  src="https://github-readme-stats-two-pi-72.vercel.app/api/pin/?username=AzeemIdrisi&repo=SwiftChat-Android&theme=github_dark" />
 </a>
 <a href="https://github.com/AzeemIdrisi/StoreX#gh-dark-mode-only"><img
-  src="https://github-readme-stats.vercel.app/api/pin/?username=AzeemIdrisi&repo=StoreX&theme=github_dark" />
+  src="https://github-readme-stats-two-pi-72.vercel.app/api/pin/?username=AzeemIdrisi&repo=StoreX&theme=github_dark" />
 </a>
 <a href="https://github.com/AzeemIdrisi/ChatterBox#gh-dark-mode-only"><img
-  src="https://github-readme-stats.vercel.app/api/pin/?username=AzeemIdrisi&repo=ChatterBox&theme=github_dark" />
+  src="https://github-readme-stats-two-pi-72.vercel.app/api/pin/?username=AzeemIdrisi&repo=ChatterBox&theme=github_dark" />
 </a>
 <a href="https://github.com/AzeemIdrisi/zenix#gh-dark-mode-only"><img
-  src="https://github-readme-stats.vercel.app/api/pin/?username=AzeemIdrisi&repo=zenix&theme=github_dark" />
+  src="https://github-readme-stats-two-pi-72.vercel.app/api/pin/?username=AzeemIdrisi&repo=zenix&theme=github_dark" />
 </a>
 <a href="https://github.com/AzeemIdrisi/WatchGuard#gh-dark-mode-only"><img
-  src="https://github-readme-stats.vercel.app/api/pin/?username=AzeemIdrisi&repo=WatchGuard&theme=github_dark" />
+  src="https://github-readme-stats-two-pi-72.vercel.app/api/pin/?username=AzeemIdrisi&repo=WatchGuard&theme=github_dark" />
 </a>
 <a href="https://github.com/AzeemIdrisi/XeroSploit-Pro#gh-light-mode-only"><img
-  src="https://github-readme-stats.vercel.app/api/pin/?username=AzeemIdrisi&repo=XeroSploit-Pro" />
+  src="https://github-readme-stats-two-pi-72.vercel.app/api/pin/?username=AzeemIdrisi&repo=XeroSploit-Pro" />
 </a>
 <a href="https://github.com/AzeemIdrisi/XeroSploit-Pro#gh-dark-mode-only"><img
-  src="https://github-readme-stats.vercel.app/api/pin/?username=AzeemIdrisi&repo=XeroSploit-Pro&theme=github_dark" />
+  src="https://github-readme-stats-two-pi-72.vercel.app/api/pin/?username=AzeemIdrisi&repo=XeroSploit-Pro&theme=github_dark" />
 </a>
 
 </details>
@@ -752,16 +752,16 @@
 </picture>
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=azeemidrisi&show_icons=true&locale=en&layout=compact&theme=dark">
-    <img alt="Shows Anuraghazra's GitHub Stats." src="https://github-readme-stats.vercel.app/api/top-langs?username=azeemidrisi&show_icons=true&locale=en&layout=compact&theme=default">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-two-pi-72.vercel.app/api/top-langs?username=azeemidrisi&show_icons=true&locale=en&layout=compact&theme=dark">
+    <img alt="Shows Azeem Idrisi's GitHub Stats." src="https://github-readme-stats-two-pi-72.vercel.app/api/top-langs?username=azeemidrisi&show_icons=true&locale=en&layout=compact&theme=default">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=azeemidrisi&show_icons=true&include_all_commits=true&locale=en&theme=dark">
-    <img alt="Shows Anuraghazra's GitHub Stats." src="https://github-readme-stats.vercel.app/api?username=azeemidrisi&show_icons=true&include_all_commits=true&locale=en">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-two-pi-72.vercel.app/api?username=azeemidrisi&show_icons=true&include_all_commits=true&locale=en&theme=dark">
+    <img alt="Shows Azeem Idrisi's GitHub Stats." src="https://github-readme-stats-two-pi-72.vercel.app/api?username=azeemidrisi&show_icons=true&include_all_commits=true&locale=en">
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=azeemidrisi&theme=dark">
-    <img alt="Shows Anuraghazra's GitHub Stats." src="https://github-readme-streak-stats.herokuapp.com/?user=azeemidrisi">
+    <img alt="Shows Azeem Idrisi's GitHub Stats." src="https://github-readme-streak-stats.herokuapp.com/?user=azeemidrisi">
   </picture>
 
 <h3 align="left">🚀 Like my work? Support me here:</h3>
