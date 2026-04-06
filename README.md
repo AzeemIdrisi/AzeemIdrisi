@@ -45,168 +45,6 @@
 
 <h3 align="left">🛠️ Tech Stack:</h3>
 <p align="left">
-<kbd>
-  <a
-    href="https://ecma-international.org/publications-and-standards/standards/ecma-262/"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <picture>
-      <source
-        media="(prefers-color-scheme: dark)"
-        srcset="https://skillicons.dev/icons?i=javascript"
-      />
-      <img
-        src="https://skillicons.dev/icons?i=javascript&theme=light"
-        alt="icons"
-      />
-    </picture>
-  </a>
-</kbd>
-<kbd>
-  <a
-    href="https://www.typescriptlang.org/"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <picture>
-      <source
-        media="(prefers-color-scheme: dark)"
-        srcset="https://skillicons.dev/icons?i=typescript"
-      />
-      <img
-        src="https://skillicons.dev/icons?i=typescript&theme=light"
-        alt="icons"
-      />
-    </picture>
-  </a>
-</kbd>
-<kbd>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <picture>
-      <source
-        media="(prefers-color-scheme: dark)"
-        srcset="https://skillicons.dev/icons?i=c"
-      />
-      <img src="https://skillicons.dev/icons?i=c&theme=light" alt="icons" />
-    </picture>
-  </a>
-</kbd>
-
-<kbd>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <picture>
-      <source
-        media="(prefers-color-scheme: dark)"
-        srcset="https://skillicons.dev/icons?i=cpp"
-      />
-      <img src="https://skillicons.dev/icons?i=cpp&theme=light" alt="icons" />
-    </picture>
-  </a>
-</kbd>
-
-<kbd>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <picture>
-      <source
-        media="(prefers-color-scheme: dark)"
-        srcset="https://skillicons.dev/icons?i=python"
-      />
-      <img
-        src="https://skillicons.dev/icons?i=python&theme=light"
-        alt="icons"
-      />
-    </picture>
-  </a>
-</kbd>
-
-<kbd>
-  <a href="https://www.kotlinlang.org/" target="_blank" rel="noreferrer">
-    <picture>
-      <source
-        media="(prefers-color-scheme: dark)"
-        srcset="https://skillicons.dev/icons?i=kotlin"
-      />
-      <img
-        src="https://skillicons.dev/icons?i=kotlin&theme=light"
-        alt="icons"
-      />
-    </picture>
-  </a>
-</kbd>
-
-<kbd>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <picture>
-      <source
-        media="(prefers-color-scheme: dark)"
-        srcset="https://skillicons.dev/icons?i=django"
-      />
-      <img
-        src="https://skillicons.dev/icons?i=django&theme=light"
-        alt="icons"
-      />
-    </picture>
-  </a>
-</kbd>
-
-<kbd>
-  <a
-    href="https://developer.mozilla.org/en-US/docs/Web/HTML"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <picture>
-      <source
-        media="(prefers-color-scheme: dark)"
-        srcset="https://skillicons.dev/icons?i=html"
-      />
-      <img src="https://skillicons.dev/icons?i=html&theme=light" alt="icons" />
-    </picture>
-  </a>
-</kbd>
-
-<kbd>
-  <a
-    href="https://developer.mozilla.org/en-US/docs/Web/CSS"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <picture>
-      <source
-        media="(prefers-color-scheme: dark)"
-        srcset="https://skillicons.dev/icons?i=css"
-      />
-      <img src="https://skillicons.dev/icons?i=css&theme=light" alt="icons" />
-    </picture>
-  </a>
-</kbd>
-<kbd>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <picture>
-      <source
-        media="(prefers-color-scheme: dark)"
-        srcset="https://skillicons.dev/icons?i=tailwind"
-      />
-      <img
-        src="https://skillicons.dev/icons?i=tailwind&theme=light"
-        alt="icons"
-      />
-    </picture>
-  </a>
-</kbd>
-
-<kbd>
-  <a href="https://react.dev/" target="_blank" rel="noreferrer">
-    <picture>
-      <source
-        media="(prefers-color-scheme: dark)"
-        srcset="https://skillicons.dev/icons?i=react"
-      />
-      <img src="https://skillicons.dev/icons?i=react&theme=light" alt="icons" />
-    </picture>
-  </a>
-</kbd>
 
 <kbd>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
@@ -299,21 +137,6 @@
 </kbd>
 
 <kbd>
-  <a href="https://redux-toolkit.js.org/" target="_blank" rel="noreferrer">
-    <picture>
-      <source
-        media="(prefers-color-scheme: dark)"
-        srcset="https://skillicons.dev/icons?i=redux"
-      />
-      <img
-        src="https://skillicons.dev/icons?i=redux&theme=light"
-        alt="icons"
-      />
-    </picture>
-  </a>
-</kbd>
-
-<kbd>
   <a href="https://zustand-demo.pmnd.rs/" target="_blank" rel="noreferrer">
     <picture>
       <source
@@ -341,6 +164,7 @@
     </picture>
   </a>
 </kbd>
+
 <kbd>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <picture>
@@ -361,6 +185,169 @@
         srcset="https://skillicons.dev/icons?i=postgresql"
       />
       <img src="https://skillicons.dev/icons?i=postgresql&theme=light" alt="icons" />
+    </picture>
+  </a>
+</kbd>
+
+<kbd>
+  <a
+    href="https://ecma-international.org/publications-and-standards/standards/ecma-262/"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://skillicons.dev/icons?i=javascript"
+      />
+      <img
+        src="https://skillicons.dev/icons?i=javascript&theme=light"
+        alt="icons"
+      />
+    </picture>
+  </a>
+</kbd>
+<kbd>
+  <a
+    href="https://www.typescriptlang.org/"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://skillicons.dev/icons?i=typescript"
+      />
+      <img
+        src="https://skillicons.dev/icons?i=typescript&theme=light"
+        alt="icons"
+      />
+    </picture>
+  </a>
+</kbd>
+<kbd>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://skillicons.dev/icons?i=c"
+      />
+      <img src="https://skillicons.dev/icons?i=c&theme=light" alt="icons" />
+    </picture>
+  </a>
+</kbd>
+
+<kbd>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://skillicons.dev/icons?i=cpp"
+      />
+      <img src="https://skillicons.dev/icons?i=cpp&theme=light" alt="icons" />
+    </picture>
+  </a>
+</kbd>
+
+<kbd>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://skillicons.dev/icons?i=python"
+      />
+      <img
+        src="https://skillicons.dev/icons?i=python&theme=light"
+        alt="icons"
+      />
+    </picture>
+  </a>
+</kbd>
+
+<kbd>
+  <a href="https://www.swift.org/" target="_blank" rel="noreferrer">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://skillicons.dev/icons?i=swift"
+      />
+      <img
+        src="https://skillicons.dev/icons?i=swift&theme=light"
+        alt="icons"
+      />
+    </picture>
+  </a>
+</kbd>
+
+<kbd>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://skillicons.dev/icons?i=django"
+      />
+      <img
+        src="https://skillicons.dev/icons?i=django&theme=light"
+        alt="icons"
+      />
+    </picture>
+  </a>
+</kbd>
+
+<kbd>
+  <a
+    href="https://developer.mozilla.org/en-US/docs/Web/HTML"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://skillicons.dev/icons?i=html"
+      />
+      <img src="https://skillicons.dev/icons?i=html&theme=light" alt="icons" />
+    </picture>
+  </a>
+</kbd>
+
+<kbd>
+  <a
+    href="https://developer.mozilla.org/en-US/docs/Web/CSS"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://skillicons.dev/icons?i=css"
+      />
+      <img src="https://skillicons.dev/icons?i=css&theme=light" alt="icons" />
+    </picture>
+  </a>
+</kbd>
+<kbd>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://skillicons.dev/icons?i=tailwind"
+      />
+      <img
+        src="https://skillicons.dev/icons?i=tailwind&theme=light"
+        alt="icons"
+      />
+    </picture>
+  </a>
+</kbd>
+
+<kbd>
+  <a href="https://react.dev/" target="_blank" rel="noreferrer">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://skillicons.dev/icons?i=react"
+      />
+      <img src="https://skillicons.dev/icons?i=react&theme=light" alt="icons" />
     </picture>
   </a>
 </kbd>
@@ -447,21 +434,6 @@
       />
       <img
         src="https://skillicons.dev/icons?i=vscode&theme=light"
-        alt="icons"
-      />
-    </picture>
-  </a>
-</kbd>
-
-<kbd>
-  <a href="https://sublimetext.com/" target="_blank" rel="noreferrer">
-    <picture>
-      <source
-        media="(prefers-color-scheme: dark)"
-        srcset="https://skillicons.dev/icons?i=sublime"
-      />
-      <img
-        src="https://skillicons.dev/icons?i=sublime&theme=light"
         alt="icons"
       />
     </picture>
