@@ -1,6 +1,6 @@
 <!-- [![MasterHead] -->
 <h1 align="center">👋🏻 Hey there, I'm Azeem</h1>
-<h3 align="center"> CSE Grad | Software Engineer | Ethical Hacker</h3>
+<h3 align="center"> Software Engineer | Ethical Hacker | CSE Grad</h3>
 
 <p align="left"> <img
         src="https://komarev.com/ghpvc/?username=azeemidrisi&label=Profile%20views&color=0e75b6&style=flat"
@@ -265,14 +265,14 @@
 </kbd>
 
 <kbd>
-  <a href="https://www.swift.org/" target="_blank" rel="noreferrer">
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="https://skillicons.dev/icons?i=swift"
+        srcset="https://skillicons.dev/icons?i=java"
       />
       <img
-        src="https://skillicons.dev/icons?i=swift&theme=light"
+        src="https://skillicons.dev/icons?i=java&theme=light"
         alt="icons"
       />
     </picture>
