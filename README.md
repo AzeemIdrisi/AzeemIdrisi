@@ -27,10 +27,6 @@
         target="_blank" rel="noreferrer"> <kbd> <img
             src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg"
             width="40" height="32" /></a>
-        <a href="https://www.dev.to/AzeemIdrisi" target="_blank"
-        rel="noreferrer"> <kbd> <img
-            src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png"
-            width="40" height="32" /></a>       
         <a href="http://www.instagram.com/AzeemIdrisiOfficial" target="_blank"
         rel="noreferrer"> 
         <kbd>
